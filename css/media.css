@@ -1,0 +1,419 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+ /* Header Menu Hide Media Css */
+
+        .feature-img img {
+            position: static !important;
+            width: 100%;
+        }
+        .feature-icon {
+            float: none;
+            text-align: center;
+        }
+        .feature-icon.right-side {
+            float: none;
+        }
+
+        .f-box-text h4 {
+            font-size: 22px;
+            text-align: center;
+            margin: 12px 0;
+        }
+
+        .f-box-text p {
+            text-align: center;
+            padding: 0 53px;
+        }
+        .single-service-box {
+            text-align: center;
+        }
+        .section-title:after, .area-title:after {
+            left: 40%;
+    
+        }
+        .service-icon i {
+            margin-bottom: 0;
+        }
+
+        .servie-title h3 {
+            margin-top: 6px;
+            margin-bottom: 3px;
+        }
+        .app-development-title h3:after {
+            bottom: -90px;
+    
+        }
+        .app-develop-img {
+            margin-top: -24px;
+            
+        }
+        .calltoaction-area h4 {
+        
+            text-align: center;
+        }
+        .calltoaction-area {
+           
+            text-align: center;
+        }
+        a.ct-btn {
+            
+            margin: 12px 0;
+        }
+        .area-title p {
+            padding: -0px 85px;
+        }
+        .testimonial-content img {
+            width: 86px !important;
+            text-align: center;
+            margin: 20px -32px;
+        }
+        .testimonial-content p {
+        
+            margin-bottom: 0;
+           
+        }
+     
+            
+
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+/* Header Menu Hide Media Css */
+
+    
+.feature-img img {
+    position: static !important;
+    width: 100%;
+}
+.feature-icon {
+    float: none;
+    text-align: center;
+}
+.feature-icon.right-side {
+    float: none;
+}
+
+.f-box-text h4 {
+    font-size: 22px;
+    text-align: center;
+    margin: 12px 0;
+}
+
+.f-box-text p {
+    text-align: center;
+    padding: 0 53px;
+}
+.single-service-box {
+    text-align: center;
+}
+.section-title:after, .area-title:after {
+    left: 40%;
+
+}
+.service-icon i {
+    margin-bottom: 0;
+}
+
+.servie-title h3 {
+    margin-top: 6px;
+    margin-bottom: 3px;
+}
+.app-development-title h3:after {
+    bottom: -90px;
+
+}
+.app-develop-img {
+    margin-top: -24px;
+    
+}
+.calltoaction-area h4 {
+
+    text-align: center;
+}
+.calltoaction-area {
+   
+    text-align: center;
+}
+a.ct-btn {
+    
+    margin: 12px 0;
+}
+.area-title p {
+    padding: -0px 85px;
+}
+.testimonial-content img {
+    width: 86px !important;
+    text-align: center;
+    margin: 20px -32px;
+}
+.testimonial-content p {
+
+    margin-bottom: 0;
+   
+}
+
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* Header Menu Hide Media Css */
+
+.header-form {
+    display: none !important;
+}
+    .navbar-default {
+        padding: 25px 0;
+        -webkit-transition: padding .3s;
+         -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+         padding: 0 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand img {
+       
+    }
+    
+    
+.feature-img img {
+    position: static !important;
+    width: 100%;
+}
+.feature-icon {
+    float: none;
+    text-align: center;
+}
+.feature-icon.right-side {
+    float: none;
+}
+
+.f-box-text h4 {
+    font-size: 22px;
+    text-align: center;
+    margin: 12px 0;
+}
+
+.f-box-text p {
+    text-align: center;
+    padding: 0 53px;
+}
+.single-service-box {
+    text-align: center;
+}
+.section-title:after, .area-title:after {
+    left: 40%;
+
+}
+.service-icon i {
+    margin-bottom: 0;
+}
+
+.servie-title h3 {
+    margin-top: 6px;
+    margin-bottom: 3px;
+}
+.app-development-title h3:after {
+    bottom: -90px;
+
+}
+.app-develop-img {
+    margin-top: -24px;
+    
+}
+.calltoaction-area h4 {
+
+    text-align: center;
+}
+.calltoaction-area {
+   
+    text-align: center;
+}
+a.ct-btn {
+    
+    margin: 12px 0;
+}
+.area-title p {
+    padding: -0px 85px;
+}
+.testimonial-content img {
+    width: 86px !important;
+    text-align: center;
+    margin: 20px -32px;
+}
+.testimonial-content p {
+
+    margin-bottom: 0;
+   
+}
+    
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .header-form {
+        display: none !important;
+    }
+
+    .navbar-default {
+        padding: 25px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+        padding: 0 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand img {
+       
+    }
+    .feature-img img {
+        position: static !important;
+        width: 100%;
+    }
+    .feature-icon {
+        float: none;
+        text-align: center;
+    }
+    .feature-icon.right-side {
+        float: none;
+    }
+    
+    .f-box-text h4 {
+        font-size: 22px;
+        text-align: center;
+        margin: 12px 0;
+    }
+    
+    .f-box-text p {
+        text-align: center;
+        padding: 0 53px;
+    }
+    .feature-img img {
+        top: 659px;
+        left: 34%;
+        width: 319px;
+    }
+     
+   
+     
+
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/* ===========Main Header Media Css Start */
+
+    .header-form {
+        display: none !important;
+    }
+    .navbar-default {
+         padding: 25px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+        padding: 13px 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand img {
+        
+    }
+
+   
+
+  
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+/* ===========Main Header Media Css Start */
+    .navbar-default {
+        padding: 25px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-default.navbar-shrink {
+        padding: 13px 0;
+    }
+
+    .navbar-default.navbar-shrink .navbar-brand {
+        font-size: 1.5em;
+    }
+
+/* ===========Main Header Media Css end */
+
+
+
+}

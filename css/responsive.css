@@ -1,0 +1,127 @@
+@media (min-width: 1920px) {
+            .main-nav ul li a {
+                font-size: 14px;
+            }
+             .section-title h2{
+                 font-size:44px;
+             }
+             .section-title p{
+                 font-size:18px;
+                 
+             }
+             
+             .coffee-express p{
+                font-size:18px; 
+             }
+             
+         }
+               @media (max-width: 1680px) and (min-width:1600px) {
+            .main-nav ul li a{
+                 font-size:14px;
+             }
+              .section-title h2{
+                 font-size:44px;
+             }
+             .section-title p{
+                 font-size:18px;
+                 
+             }
+              .coffee-express p{
+                font-size:18px; 
+             }
+             
+             
+         }
+          @media (max-width: 1024px) {
+             .main-nav ul li a{
+                 font-size:14px;
+             }
+              .section-title h2{
+                 font-size:44px;
+             }
+             .section-title p{
+                 font-size:18px;
+                 
+             }
+              .coffee-express p{
+                font-size:18px; 
+             }
+             .s-s-text h2{
+                 
+                 line-height:30px;
+             }
+             
+        
+.s-s-text h3 {
+    font-size: 18px;
+    line-height: 30px;
+   
+}
+.s-s-text {
+    top: 45px;
+}
+         }
+ @media (max-width: 480px) {
+     .s-s-text h2 {
+    font-size: 28px;
+}
+.s-s-text h3 {
+    font-size: 18px;
+    line-height: 30px;
+   
+}
+.s-s-text {
+    top: 45px;
+}
+     .food-img img{
+ 		margin-left: 0px;
+ 	}
+ 	
+ 	.w-text p{
+ 	    padding:0px;
+ 	}
+             .item-section{
+             	height:3070px;
+             }
+
+             .newsletter-area{
+             	padding:25px;
+             }
+
+             .banner-left-text h4{
+             	padding:0px;
+             	  font-size: 54px;
+    font-weight: 600;
+    line-height: 43.56px;
+             }
+
+
+.banner-left-text h2 {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 40px;
+    line-height: 82px;
+    margin-left: 6px;
+    color: #453E3C;
+}
+.banner-left-text p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    line-height: 29.16px;
+    color: #423930;
+    display: block;
+    margin-left: 0px;
+    margin-top: 30px;
+    font-weight: 400;
+}
+.banner-left-text .read-more {
+    margin-left: 0px;
+}
+   
+
+
+
+
+
+
+
+}
